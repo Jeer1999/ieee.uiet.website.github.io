@@ -1,0 +1,88 @@
+== Change log ==
+
+= 3.0.4 - Feb 06 2022 =
+* Updated: WordPress latest compatibility
+
+= 3.0.3 - July 29 2021 =
+* Added: WordPress 5.8 compatibility
+* Fixed: Block-based Widgets Editor
+
+= 3.0.2 - June 25 2021 =
+* Fixed   :  Notice on Editor Gutenberg Editor
+* Updated   :  RTL CSS
+
+= 3.0.1 - Jan 09 2021 =
+* Added   : Links within content must be underlined
+
+= 3.0.0 - Dec 23 2019 =
+* Added   : Advanced Demo Import
+* Removed : Acme Demo Setup Plugin from TGM
+* Updated : Getting Started experience
+* Fixed   : Breadcrumbs error on google console, $item,$attributes,$meta updates inside function trail
+* Fixed   : Slider
+* Fixed   : Minor changes
+
+= 2.0.2 - Oct 03 2019=
+* Added : wp_body_open hook in header
+* Added : Gutentor Plugin in TGM
+* Added : wpml-config.xml file
+* Fixed : Screen reader text
+
+= 2.0.1 - March 03 2019 =
+* Update : CSS and Some Design
+
+= 2.0.0 - Feb 18 2019 =
+* Added : Both and Middle Column Sidebar layout
+* Added : Gutenberg Ready
+* Added : WooCommerce Sidebar Options
+* Update : RTL CSS
+* Fixed : Space before DOCTYPE
+* Fixed : Other Minor Issues
+
+
+= 1.2.1 - Jan 12 2018 =
+* Updated : Breadcrumb library and TGM
+* Updated : Admin script enqueue
+* Updated : Font Awesome and theia-sticky-sidebar library
+* Updated : div class change for ads widget
+
+= 1.2.0 - July 21 2017 =
+* Added: Front Page, Archive and Single Page/Post Advanced Sidebar
+* Added: Theme Menu Page
+* Added: Acme Demo Setup, information
+* Added: Pagination Options
+* Update: Customizer experience
+* Fix: Breadcrumb Trail notification issue
+
+= 1.1.1 =
+* Added : Upgrade to pro
+* Fix : read_more_alter_excerpt hook
+
+= 1.1.0 =
+* Added : New widgets
+* Added : Site Origin Page Builder and WooCommerce Integration
+* Remove : Custom CSS in favor of WP 4.7
+* Fix: CSS tweaks
+* Fix: Several bug fixes
+
+= 1.0.3 =
+* Fix: Minor css
+
+= 1.0.2 =
+* Fix: Minor code and design
+
+= 1.0.1 =
+* Update: Button Style
+* Update: Pagination
+* Update: Slider Library
+
+= 1.0.0 =
+* Update: Extend theme Customizer options
+* Added : Feature Slider
+* Added : Feature Blog Section
+* Added : Custom widgets
+* Added : WooCommerce Supports
+* Fix: Fixed and Extended CSS
+
+= 0.0.1 =
+* Submitted to WordPress.org

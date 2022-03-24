@@ -1,0 +1,352 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fotofly\n"
+"POT-Creation-Date: 2022-03-15 22:11+0500\n"
+"PO-Revision-Date: 2022-03-15 22:11+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:36
+msgid "404"
+msgstr ""
+
+#: ../404.php:37
+msgid "Page Not Found"
+msgstr ""
+
+#: ../404.php:38
+msgid ""
+"Sorry, but the page you are looking for was moved, removed, renamed or might "
+"never existed..."
+msgstr ""
+
+#: ../archive.php:31 ../archive.php:33
+#, php-format
+msgid "All posts in %s"
+msgstr ""
+
+#: ../archive.php:35
+#, php-format
+msgid "All posts tagged in %s"
+msgstr ""
+
+#: ../archive.php:37 ../archive.php:39 ../archive.php:41
+msgid "Archive for"
+msgstr ""
+
+#: ../archive.php:43
+msgid "All posts by"
+msgstr ""
+
+#: ../archive.php:45
+msgid "Blog Archives"
+msgstr ""
+
+#: ../archive.php:50 ../inc/avova_fn_functions.php:1440
+msgid "All Works"
+msgstr ""
+
+#: ../comments.php:9
+msgid "Pingback:"
+msgstr ""
+
+#: ../comments.php:9
+msgid "Edit"
+msgstr ""
+
+#: ../comments.php:28
+msgid "Your comment is awaiting moderation"
+msgstr ""
+
+#: ../comments.php:31
+msgid "edit"
+msgstr ""
+
+#: ../comments.php:43
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:54
+msgid "No Comment"
+msgstr ""
+
+#: ../comments.php:54
+msgid "One Comment"
+msgstr ""
+
+#: ../comments.php:54
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:65
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:66
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:76
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:95
+msgid "Leave a reply"
+msgstr ""
+
+#: ../config/woo/woo-template-functions.php:214
+msgid "Sale"
+msgstr ""
+
+#: ../config/woo/woo-template-functions.php:301
+#: ../inc/avova_fn_functions.php:1133
+msgid "Home"
+msgstr ""
+
+#: ../config/woo/woo-template-functions.php:447
+msgid "was added to the cart"
+msgstr ""
+
+#: ../config/woo/woo-template-functions.php:504
+msgid "Awaiting product image"
+msgstr ""
+
+#: ../footer.php:84
+msgid "Download Now"
+msgstr ""
+
+#: ../footer.php:87
+msgid "49"
+msgstr ""
+
+#: ../footer.php:88
+msgid "Purchase PRO"
+msgstr ""
+
+#: ../functions.php:9
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions.php:10
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../functions.php:81
+msgid "Avova Core"
+msgstr ""
+
+#: ../header.php:30
+msgid "Type something and hit enter to search"
+msgstr ""
+
+#: ../header.php:36
+msgid "Skip to content"
+msgstr ""
+
+#: ../header.php:70
+msgid "Close"
+msgstr ""
+
+#: ../inc/avova_fn_functions.php:48
+msgid "svg"
+msgstr ""
+
+#: ../inc/avova_fn_functions.php:69
+msgid "Subtotal:"
+msgstr ""
+
+#: ../inc/avova_fn_functions.php:70
+msgid "Remove this product from the cart"
+msgstr ""
+
+#: ../inc/avova_fn_functions.php:71
+msgid "View Cart"
+msgstr ""
+
+#: ../inc/avova_fn_functions.php:72
+msgid "Checkout"
+msgstr ""
+
+#: ../inc/avova_fn_functions.php:129
+msgid "Return to shop"
+msgstr ""
+
+#: ../inc/avova_fn_functions.php:130
+msgid "Your cart is currently empty"
+msgstr ""
+
+#: ../inc/avova_fn_functions.php:180
+msgid "The cart has been changed somewhere. Please, update the cart."
+msgstr ""
+
+#: ../inc/avova_fn_functions.php:180
+msgid "Update the cart"
+msgstr ""
+
+#: ../inc/avova_fn_functions.php:602
+#, php-format
+msgid "%s min read"
+msgid_plural "%s min read"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/avova_fn_functions.php:814
+msgid "Protected Page"
+msgstr ""
+
+#: ../inc/avova_fn_functions.php:815 ../single-avova-project.php:18
+#: ../single.php:23
+msgid "Please, enter the password to have access to this page."
+msgstr ""
+
+#: ../inc/avova_fn_functions.php:851
+msgid "logo"
+msgstr ""
+
+#: ../inc/avova_fn_functions.php:1020
+msgid "Loading"
+msgstr ""
+
+#: ../inc/avova_fn_functions.php:1116
+msgid ""
+"This content is password protected. To view it please enter your password "
+"below:"
+msgstr ""
+
+#: ../inc/avova_fn_functions.php:1136
+msgid "All Recipes"
+msgstr ""
+
+#: ../inc/avova_fn_functions.php:1166 ../inc/avova_fn_functions.php:1171
+msgid "Archive"
+msgstr ""
+
+#: ../inc/avova_fn_functions.php:1318 ../inc/avova_fn_functions.php:1322
+#: ../inc/avova_fn_functions.php:1326 ../inc/avova_fn_functions.php:1333
+#: ../inc/avova_fn_functions.php:1337 ../inc/avova_fn_functions.php:1342
+msgid " Archives"
+msgstr ""
+
+#: ../inc/avova_fn_functions.php:1353
+msgid "Author: "
+msgstr ""
+
+#: ../inc/avova_fn_functions.php:1358
+msgid "Page"
+msgstr ""
+
+#: ../inc/avova_fn_functions.php:1363
+msgid "Search results for: "
+msgstr ""
+
+#: ../inc/avova_fn_functions.php:1368
+msgid "Error 404"
+msgstr ""
+
+#: ../inc/avova_fn_functions.php:1437
+msgid "Please install Avova Core plugin"
+msgstr ""
+
+#: ../inc/avova_fn_functions.php:1508
+#, php-format
+msgid ""
+"Copyright &copy; 2022. Designed by %s Avova WordPress Theme. Built with love "
+"in London. All rights reserved."
+msgstr ""
+
+#: ../inc/avova_fn_pagination.php:51
+msgid "Prev"
+msgstr ""
+
+#: ../inc/avova_fn_pagination.php:58
+msgid "Viewing page"
+msgstr ""
+
+#: ../inc/avova_fn_pagination.php:58
+msgid "of"
+msgstr ""
+
+#: ../inc/avova_fn_pagination.php:62
+msgid "Next"
+msgstr ""
+
+#: ../inc/avova_fn_sidebars.php:17
+msgid "Right Bar"
+msgstr ""
+
+#: ../inc/avova_fn_sidebars.php:19
+msgid "This is widget for right popup bar."
+msgstr ""
+
+#: ../inc/avova_fn_sidebars.php:30
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../inc/avova_fn_sidebars.php:32
+msgid "These are widgets for the sidebar."
+msgstr ""
+
+#: ../inc/templates/template-footer.php:51
+msgid "To Top"
+msgstr ""
+
+#: ../inc/templates/template-header.php:22
+msgid "No menu assigned"
+msgstr ""
+
+#: ../inc/templates/template-portfolio-single.php:37
+msgid "Share"
+msgstr ""
+
+#: ../inc/templates/template-post-single.php:103
+msgid "Tags:"
+msgstr ""
+
+#: ../inc/templates/template-post-single.php:109 ../page.php:73
+msgid "Pages:"
+msgstr ""
+
+#: ../inc/templates/template-posts.php:50
+msgid "Read More"
+msgstr ""
+
+#: ../inc/templates/template-right-bar.php:23
+msgid "Show More"
+msgstr ""
+
+#: ../index.php:43
+msgid "Latest Articles"
+msgstr ""
+
+#: ../page-project.php:105
+msgid "Load More"
+msgstr ""
+
+#: ../search.php:57
+#, php-format
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: ../search.php:85
+#, php-format
+msgid "Nothing found for \"%s\""
+msgstr ""
+
+#: ../search.php:90
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../single-avova-project.php:17 ../single.php:22
+msgid "Protected"
+msgstr ""

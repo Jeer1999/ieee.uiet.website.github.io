@@ -1,0 +1,424 @@
+/* Mobile Portrait View */
+@media screen and (max-width:767px) {
+*{box-sizing:border-box;}
+.left, 
+.right, 
+.hdrcontact_details,
+.copyright-txt, 
+.design-by, 
+.powerby, 
+.left-column-40, 
+.right-column-60,
+.fcopy-right50,
+.fcopy-left50{ 
+text-align:center; 
+width:auto; 
+float:none; 
+}
+.container { 
+width:auto; 
+padding:0 20px;
+}
+.logo h1{ 
+font-size:30px;
+}
+.Unicare-Article-Listing .BlogImgDiv.imgLeft{ 
+width:auto; 
+height:auto; 
+float:none; 
+margin:0 0 20px;
+}
+
+.Unicare-Article-Listing .BlogImgDiv img{
+ height:auto; 
+ min-height: inherit;
+ }
+.Unicare-Article-Listing{ 
+float:none; 
+width:100%; 
+margin:0 0 30px 0;
+}
+.SiteContent-Left{ 
+padding:40px 0;
+}
+
+.copyrigh-wrapper:before{ 
+display:none;
+}
+.UnicareBX-25{ 
+float:none; 
+width:100%;
+}
+.site-header{ 
+position:relative;
+}
+.BlogImgDiv{ 
+width:100%; 
+float:none; 
+margin:0 0 10px;
+}
+.Unicare-Left45{ 
+width:100%; 
+float:none;
+padding:0; 
+margin-bottom:20px; 
+}
+
+.Unicare-Right55{ 
+width: auto; 
+float:none; 
+padding-left:0; 
+}
+.Unicare-Right55 h3{ 
+line-height:30px;
+font-size:32px; 
+}
+h5.quote{ 
+font-size:22px; 
+line-height:24px;
+}
+#sidebar{ 
+width:100%; 
+float:none;
+}
+
+.SiteContent-Left{
+ width:auto; 
+ float:none;
+ }
+.fwcolumn-1, 
+.fwcolumn-2, 
+.fwcolumn-3, 
+.fwcolumn-4{ 
+float:none; 
+width:100%; 
+margin:0 0 5px; 
+padding:0; 
+text-align:left;
+}
+.site-footer .container{ 
+padding:0 20px;
+}
+.copyrigh-wrapper .container{ 
+padding:0 20px;
+}
+h2.section_title{ 
+font-size:34px; 
+margin-bottom:25px;
+}
+#home-sections1{ 
+padding:25px 0 10px; 
+margin:0;
+}
+.wpcf7 input[type="text"], 
+.wpcf7 input[type="tel"], 
+.wpcf7 input[type="email"], 
+.wpcf7 textarea{ 
+width:100%;
+}
+#SiteWrapper{ 
+width:100%;
+}
+h2.services_title{ 
+font-size:30px;
+}
+.header-right-70{ 
+float:none; 
+width:100%; 
+text-align:center;
+}
+
+.site-header{ 
+height:auto;
+}
+.gridlayout .Unicare-Article-Listing, 
+.fullwidth .Unicare-Article-Listing{ 
+width:auto;
+float:none;
+margin:0 0  25px 0;
+padding:0;
+box-shadow:none;
+}
+
+.nivo-caption{ 
+padding:0 20px; 
+width:90%;
+}
+.nivo-caption h2{ 
+font-size:18px !important; 
+line-height:18px !important; 
+margin:0 0 10px !important;
+}
+.nivo-caption p{ 
+font-size:13px;
+line-height:14px; 
+margin-bottom:10px;
+}
+.nivo-caption .slidermorebtn{ 
+font-size:12px;
+padding:5px 20px; 
+line-height:20px;
+}
+.nivo-directionNav a{ 
+top:35% !important;
+}
+.nivo-controlNav{ 
+display:none !important;
+}
+a.nivo-prevNav{ 
+left:1%;
+}
+a.nivo-nextNav{
+right:1%;
+}
+h2.section_title{ 
+font-size:28px;
+}
+a.servicesemore{ 
+padding:10px 30px;
+}
+
+.nivo-directionNav{ 
+display:none;
+top:35%;
+}
+
+.hdr3col{ 
+margin:0 0 10px 0;
+padding:0;
+}
+
+
+.infobxfix{ 
+padding:20px 0;
+}
+.emergencybox::after, 
+.emergencybox::before { 
+display:none;
+}
+.infobxfix .emergencybox{ 
+position: relative; 
+padding:20px; 
+transform:none; 
+width:100%; 
+border-radius:10px;
+}
+.infobxfix .emergencybox h4, 
+.emergencybox .phoneicon img{ 
+transform:none !important;
+}
+.infobxfix a.appointbtn{ 
+margin:0 0 10px; 
+padding:18px 25px;
+}
+.emergencybox .phoneicon{ 
+margin-right:10px;
+}
+.infobxfix a.appointbtn i{ 
+padding-right:10px;
+}
+.emergencybox .phoneicon i{
+transform:none !important;
+}
+.infobxfix .emergencybox h4 span{ 
+font-size:16px;
+}
+
+
+}
+
+/* Mobile Landscape View */
+@media screen and (min-width: 481px) and (max-width: 767px){
+*{box-sizing:border-box;}
+.nivo-controlNav{ 
+display:none !important;
+}
+.menu-toggle {
+right:35px;
+}
+.uc-topbox{ margin-bottom:10px;}
+}
+
+
+@media screen and (min-width:768px) and (max-width: 980px){
+.uc-topbox{ 
+margin-bottom:10px;
+}
+
+.site-header{ 
+height:auto;
+}
+.header-right-70{ 
+float:none;
+width:100%; 
+text-align:center;
+}
+.menu-toggle {
+right:35px;
+}
+h2.section_title{ 
+font-size:30px;
+}
+
+.UnicareBX-25 h4{ 
+font-size:16px;
+}
+
+.nivo-caption{ 
+padding:0 40px;
+}
+
+.emergencybox::after, 
+.emergencybox::before { 
+display:none;
+}
+.infobxfix .emergencybox{ 
+padding:10px; 
+transform:none; 
+width:33%; 
+top:23%; 
+border-radius:10px;
+}
+.infobxfix .emergencybox h4, 
+.emergencybox .phoneicon img{ 
+transform:none !important;
+}
+.infobxfix a.appointbtn{ 
+margin:0 0 10px; 
+padding:18px 25px;
+}
+.emergencybox .phoneicon{ 
+margin-right:10px;
+}
+.infobxfix .emergencybox h4{ 
+font-size:20px;
+}
+.infobxfix a.appointbtn{ 
+padding:18px 15px;
+}
+.infobxfix a.appointbtn i{ 
+padding-right:10px;
+}
+
+}
+
+/* Tablet View */
+@media screen and (max-width:1169px) and (min-width:768px) { 
+.container { 
+width:auto; 
+padding:0 20px;
+}
+/*slider css*/
+.nivo-caption{ 
+width:60%; 
+padding:0 20px; 
+}
+.nivo-caption h2{ 
+font-size:42px; 
+line-height:45px;
+}
+#SiteWrapper{ 
+width:100%;
+}
+#home-sections1 .container{ 
+margin-left:20px; 
+margin-right:20px;
+}
+
+}
+
+/* Tablet View */
+@media screen and (max-width:1169px) and (min-width:981px) { 
+*{box-sizing:border-box;}
+.logo{ 
+width:auto;
+}
+.video_title h2{ 
+font-size:50px; 
+line-height:50px;
+}
+.slidecaption-wp{ 
+top:60%;
+}
+a.nivo-prevNav {
+	left:0;
+}
+a.nivo-nextNav {
+	right:0;
+}
+.nivo-caption{ 
+width:70%; 
+padding:0 80px; 
+}
+.nivo-directionNav{ 
+top:65%;
+}
+.nivo-controlNav{ 
+left:7%;
+}
+.logo{ 
+width:25%;
+}
+
+.infobxfix .emergencybox{ padding:51px 20px;}
+}
+
+@media screen and (max-width: 1023px){
+.site-header{ 
+position:relative;
+}
+.logo{ 
+position:relative;
+width:auto;
+margin:0; 
+text-align:center;
+}
+.site-header.innerpage_header .header-section{ 
+box-shadow:0 3px 3px #f1f1f1;
+}
+
+.header-right-70{ 
+padding:10px 0 0;
+float:none;
+}
+
+.site-header.innerpage_header{ 
+box-shadow:none;
+}
+.header-section .container { 
+padding:0;
+}
+.logo{ 
+padding:20px;
+}
+.HeaderSlider::before{ 
+width:100%;
+}
+.Unicare-Left45::before, 
+.Unicare-Left45::after{ 
+display:none;
+}
+.Unicare-Left45 img{ 
+width:auto; 
+margin:0; 
+min-height:inherit; 
+max-width:100%;
+}
+#home-sections2{ 
+padding:70px 0;
+}
+a.nivo-prevNav {
+	left:0;
+}
+a.nivo-nextNav {
+	right:0;
+}
+.primary-navigation .menu ul{ 
+background-color:transparent !important
+}
+
+.nivoSlider:hover .nivo-directionNav{ 
+	display:none !important;
+}
+#home-sections1 .shortdesc{ width:100%;}
+}

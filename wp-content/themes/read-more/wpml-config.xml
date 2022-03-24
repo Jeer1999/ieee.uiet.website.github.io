@@ -1,0 +1,58 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_read-more">
+            <key name="read_more_theme_options">
+                <key name="read-more-enable-header-top"/>
+                <key name="read-more-header-top-enable-social"/>
+                <key name="read-more-header-top-enable-menu"/>
+                <key name="read-more-phone-number"/>
+                <key name="read-more-top-email"/>
+                <key name="read-more-header-top-enable-search"/>
+                <key name="read-more-slider-from-category"/>
+                <key name="read-more-featured-slider-number"/>
+                <key name="read-more-enable-feature"/>
+                <key name="read-more-featured-slider-read-more-text"/>
+                <key name="read-more-blog-feature-title"/>
+                <key name="read-more-blog-feature-from-category"/>
+                <key name="read-more-enable-feature-blog"/>
+                <key name="read-more-header-id-display-opt"/>
+                <key name="read-more-facebook-url"/>
+                <key name="read-more-twitter-url"/>
+                <key name="read-more-youtube-url"/>
+                <key name="read-more-google-plus-url"/>
+                <key name="read-more-enable-social"/>
+                <key name="read-more-footer-copyright"/>
+                <key name="read-more-hide-front-page-content"/>
+                <key name="read-more-single-sidebar-layout"/>
+                <key name="read-more-front-page-sidebar-layout"/>
+                <key name="read-more-archive-sidebar-layout"/>
+                <key name="read-more-blog-archive-layout"/>
+                <key name="read-more-blog-archive-image-layout"/>
+                <key name="read-more-blog-archive-read-more-text"/>
+                <key name="read-more-blog-index-title"/>
+                <key name="read-more-excerpt-length"/>
+                <key name="read-more-pagination-option"/>
+                <key name="read-more-ajax-show-more"/>
+                <key name="read-more-ajax-no-more"/>
+                <key name="read-more-author-options"/>
+                <key name="read-more-primary-color"/>
+                <key name="read-more-enable-sticky-sidebar"/>
+                <key name="read-more-button-design"/>
+                <key name="read-more-show-related"/>
+                <key name="read-more-single-image-layout"/>
+                <key name="read-more-search-placholder"/>
+                <key name="read-more-show-breadcrumb"/>
+                <key name="read-more-wc-shop-archive-sidebar-layout"/>
+                <key name="read-more-wc-product-column-number"/>
+                <key name="read-more-wc-shop-archive-total-product"/>
+                <key name="read-more-wc-single-product-sidebar-layout"/>
+            </key>
+        </key>
+    </admin-texts>
+</wpml-config>
+
+
+
+
+
+
